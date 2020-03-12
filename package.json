@@ -6,7 +6,7 @@
   "author": "Threebow",
   "engines": {
     "node": "12.x"
-  }
+  },
   "dependencies": {
     "discord.js": "^11.2.1",
     "moment": "^2.19.1",
